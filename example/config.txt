@@ -1,0 +1,2 @@
+Prefix plugins/VBinaries/example/
+Plugin VBinaries inputfile sample_variables.txt outputfile none
